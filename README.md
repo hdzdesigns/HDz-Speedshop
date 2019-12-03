@@ -1,2 +1,2 @@
-hello world /n
+hello world 
 site still in development...
