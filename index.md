@@ -22,7 +22,7 @@ coming soon
 
 
 
-### Definition lists can be used with HTML syntax.
+### Bio
 
 <dl>
 <dt>Name</dt>
