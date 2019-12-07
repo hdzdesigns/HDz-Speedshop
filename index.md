@@ -17,7 +17,7 @@ coming soon
 
 ## Creations
 
-![07/12/2019](/assets/img/sbikpng.png)
+![07/12/2019](./assets/img/sbikpng.png)
 
 
 
